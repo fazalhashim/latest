@@ -23,6 +23,6 @@
 <icon src="type04.png" platform="android" qualifier="xxhdpi" />
 <icon src="type04.png" platform="android" qualifier="fr-xxhdpi" />
 
-    <gap:plugin name="cordova-plugin-whitelist"/>
+    <gap:plugin name="cordova-plugin-whitelist" source="npm" />
     <allow-navigation href="*" />
 </widget>
